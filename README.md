@@ -2,4 +2,4 @@
 
 This is a bsc testnet exchange to test your project.
 
-Use it here: https://thewapdev.github.io
+Use it here: https://swap-testnet.bitdeep.dev
